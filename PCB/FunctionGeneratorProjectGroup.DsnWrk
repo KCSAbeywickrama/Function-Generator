@@ -4,3 +4,5 @@ Version=1.0
 ProjectPath=Fucntion_Generator_Project\Fucntion_Generator_Project.PrjPcb
 [Project2]
 ProjectPath=M:\PCB\Altium\libs\mylib\Common Parts.LibPkg
+[Project3]
+ProjectPath=Integrated_Library_rotary\Integrated_Library_Rotary.LibPkg

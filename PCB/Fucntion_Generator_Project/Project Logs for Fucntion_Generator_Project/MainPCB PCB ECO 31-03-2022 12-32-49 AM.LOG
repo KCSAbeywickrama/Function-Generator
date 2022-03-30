@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=VR7 Old Footprint=VR_PRESET New Footprint=VR_VOL_CTRL
+Change Component Footprint: Designator=VR8 Old Footprint=VR_VOL_CTRL New Footprint=VR_PRESET
+Change Component Comment : Designator=VR5 Old Comment=VR2 New Comment=50k
+Change Component Comment : Designator=VR7 Old Comment=VR3 New Comment=VR7
+Change component parameters: Designator = "VR5" ("VR5"); Footprint = "VR_VOL_CTRL"; UniqueID = "\LCQKRTAG" ("\LCQKRTAG")
+Change component parameters (AddParameter): Name = "Value"; Value = "50k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VR7" ("VR7"); Footprint = "VR_PRESET"; UniqueID = "\UFHVUUSB" ("\UFHVUUSB")
+Change component parameters (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"

@@ -1,0 +1,4 @@
+Added Component: Designator=OUT(PWR2)
+Added Pin To Net: NetName=NetOUT_1 Pin=OUT-1
+Added Pin To Net: NetName=GND Pin=OUT-2
+Added Member To Class: ClassName=MainSheet Member=Component OUT SigOut
