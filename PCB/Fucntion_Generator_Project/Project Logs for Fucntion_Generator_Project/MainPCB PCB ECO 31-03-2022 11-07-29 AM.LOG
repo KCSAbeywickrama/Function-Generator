@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NetR9_1 Pin=VR8-2
+Change Component Footprint: Designator=VR6 Old Footprint=VR_VOL_CTRL New Footprint=VR_PRESET
+Added Pin To Net: NetName=NetR9_1 Pin=U1-3
+Added Pin To Net: NetName=NetR9_1 Pin=VR8-1
+Added Member To Class: ClassName=MainSheet Member=Component VR8 VR2
