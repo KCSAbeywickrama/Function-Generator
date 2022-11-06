@@ -4,6 +4,5 @@ This repo contains all project files of analog function generator that can gener
 
 **Demostration**
 
-<p align="center">
-  <video src='https://user-images.githubusercontent.com/81417619/200161653-c288d599-2055-4e25-9d5f-1a4bdeb08a34.mp4'/>
-</p>
+
+<div style="text-align:center"><video src='https://user-images.githubusercontent.com/81417619/200161653-c288d599-2055-4e25-9d5f-1a4bdeb08a34.mp4'/></div>
